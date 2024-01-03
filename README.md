@@ -49,4 +49,4 @@ N/A
 
 ## Acknowledgments
 
-  - Inspired by 
+  - Inspired by the original Google homepage.
