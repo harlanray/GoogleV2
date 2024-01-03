@@ -29,8 +29,9 @@ button {
     padding: 0 16px;
     font-size: 14px;
     height: 36px;
-    background-color: #f8f9fa;
+    background-color: #e2e2e2;
     border: 1px solid #f8f9fa;
+    border-radius: 5px;
     cursor: pointer;
 }
 
@@ -39,14 +40,12 @@ button:first-of-type {
     margin-left: calc(50% - 131.5px);
 }
 
-button::hover {
-    
+button:hover {
+    background-color: grey;
+    color: white;
 }
 
 p {
     margin-top: 40px;
     text-align: center;
-}
-
-a {
 }
